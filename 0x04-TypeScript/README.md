@@ -1,2 +1,2 @@
 0x04. Typescript
-https://github.com/MarufAbrar/
+https://github.com/Naeyaya/
